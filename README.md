@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abraham-gif-code
-- 👀 I’m interested in Aws devops
-- 🌱 I’m currently learning Aws devops
-- 💞️ I’m looking to collaborate on Aws devops
+- 👋 Hi, I’m @Abraham
+- 👀 I’m interested
+- 🌱 I’m currently AWS DEVOPS
+- 💞️ I’m looking to collaborate WITH Aws devops TEAM
 - 📫 How to reach me 0551837166
 
 <!---
